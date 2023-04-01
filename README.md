@@ -29,7 +29,7 @@ We will be finding the best fit sigmoid curve on the given data set using Gradie
 
 ## Visualizing Input :
 
-![image](https://user-images.githubusercontent.com/68383273/229301677-e4235afe-d100-4325-b9d6-34f0824a168e.png)
+![image](https://user-images.githubusercontent.com/68383273/229302322-6d7eb6f8-4057-4ef5-917f-5aa998e5f28c.png)
 
 
 The above image depicts the following
